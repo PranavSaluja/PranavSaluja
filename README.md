@@ -1,12 +1,12 @@
 # Namaste 🙏, I'm Pranav Saluja
 
  🚀 **Full-Stack Developer | AI Enthusiast | Open Source Contributor| Creator**
+<img align="right" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=6c09b9522v8ba50e9kon8pqm3si07759rs1zgumtol6pjsm9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PranavSaluja&label=Profile%20views&color=brightgreen&style=flat" alt="PranavSaluja" /> 
 
 * 📫 How to reach me: pranavsaluja12345@gmail.com
 * ⚡ Fun fact: I love building innovative projects and exploring cutting-edge tech.
-
 
 
 ## 🛠️ Languages and Tools:
