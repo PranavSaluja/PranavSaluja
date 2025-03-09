@@ -1,7 +1,7 @@
 # Namaste 🙏, I'm Pranav Saluja
 
  🚀 **Full-Stack Developer | AI Enthusiast | Open Source Contributor| Creator**
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" height="200"/>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PranavSaluja&label=Profile%20views&color=brightgreen&style=flat" alt="PranavSaluja" /> 
 
