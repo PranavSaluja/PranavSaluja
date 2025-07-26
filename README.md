@@ -1,4 +1,4 @@
-# Namaste 🙏, I'm Pranav Saluja
+# Hii, I'm Pranav Saluja
 
  🚀 **Full-Stack Developer | AI Enthusiast | Open Source Contributor| Creator**
 
