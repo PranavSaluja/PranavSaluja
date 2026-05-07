@@ -115,13 +115,6 @@
 📚 Continuous learner | 🤝 Team player | 🌍 Open source enthusiast
 ```
 
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavSaluja&theme=tokyo-night" alt="Contribution Graph"/>
-</div>
 
 ---
 
